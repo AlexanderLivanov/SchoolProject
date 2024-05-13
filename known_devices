@@ -1,0 +1,5 @@
+Interface: eth0, type: EN10MB, MAC: 08:00:27:2b:fe:3b, IPv4: 192.168.56.101
+192.168.56.1	0a:00:27:00:00:0f	(Unknown: locally administered)
+192.168.56.100	08:00:27:92:75:70	PCS Systemtechnik GmbH
+192.168.56.102	08:00:27:fc:f4:a2	PCS Systemtechnik GmbH
+
